@@ -1,0 +1,21 @@
+.a{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+}
+.b{
+  padding-left: 100px;
+  padding-right: 10px;
+  
+}
+.d{
+    padding-left: 50px;  
+}
+.e{
+    padding-left: 50px;
+}
+body{
+   background-image: linear-gradient(to top, #ff0844 10%, #ffb199 100% );
+   background-size: cover;
+   background-repeat: no-repeat;
+}
